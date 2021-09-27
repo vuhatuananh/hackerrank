@@ -1,3 +1,6 @@
+#py-string.py
+#author: Tuan Anh Vu
+
 #https://www.hackerrank.com/challenges/swap-case
 def swap_case(s):
     r=""
@@ -121,11 +124,6 @@ def merge_the_tools(string, k):
         print("".join(r))
 
 #
-#
-#
-#
-#
-
 #
 #
 #
